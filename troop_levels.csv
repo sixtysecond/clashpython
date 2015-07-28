@@ -1,8 +1,0 @@
-,Level,Damage per Second,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
-0,1,8,45,25,nan,nan,nan
-1,2,11,54,40,50000.0,1.0,6 hours
-2,3,14,65,60,150000.0,3.0,1 day
-3,4,18,78,100,500000.0,5.0,3 days
-4,5,23,95,150,1500000.0,6.0,5 days
-5,6,26,110,200,4500000.0,7.0,10 days
-6,7,30,125,250,6000000.0,8.0,14 days
