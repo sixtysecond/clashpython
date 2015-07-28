@@ -1,2 +1,4 @@
-,Radius,Boost Time,Housing Space,Time to Brew,Spell Factory Level Required
-0,3.5 tiles,1s,2,30 minutes,4
+,Level,Spell Duration,Cost,Research Cost,Research Time,Laboratory Level Required
+0,1,20 seconds,23000,,,
+1,2,40 seconds,27000,3000000.0,5 days,6.0
+2,3,60 seconds,31000,6000000.0,7 days,8.0

@@ -1,2 +1,4 @@
-,Preferred Target,Attack Type,Housing Space,Training Time,Movement Speed,Attack Speed,Dark Barracks Level Required,Range
-0,Air Defense,Melee (Ground & Air),30,45m,20,2s,6,1 tile
+,Level,Damage per Second,Damage per Attack,Lava Pups Spawned (After Death),Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+0,1,10,20,8,5700,390,,,
+1,2,12,24,10,6200,450,60000.0,7.0,10 days
+2,3,14,28,12,6700,510,70000.0,8.0,12 days

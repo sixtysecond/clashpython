@@ -1,2 +1,5 @@
-,Radius,Number of Pulses,Time Between Pulses,Housing Space,Time to Brew,Targets,Dark Spell Factory Level Required
-0,4 tiles,45,0.33s,1,15 minutes,Ground & Air,1
+,Level,Total Damage,Damage Per Pulse,Speed Decrease,Cost ,Research Cost ,Research Time,Laboratory Level Required
+0,1,270,6,28%,95,,,
+1,2,360,8,30%,110,25000.0,4 days,6.0
+2,3,450,10,32%,125,50000.0,6 days,7.0
+3,4,540,12,34%,140,75000.0,10 days,8.0

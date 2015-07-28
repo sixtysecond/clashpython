@@ -1,2 +1,8 @@
-,Preferred Target,Attack Type,Housing Space,Training Time,Movement Speed,Attack Speed,Barracks Level Required,Range
-0,None,Ranged (Ground & Air),1,25s,24,1s,2,3.5 tiles
+,Level,Damage per Second,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+0,1,7,20,50,,,
+1,2,9,23,80,50000.0,1.0,12 hours
+2,3,12,28,120,250000.0,3.0,2 days
+3,4,16,33,200,750000.0,5.0,3 days
+4,5,20,40,300,2250000.0,6.0,5 days
+5,6,22,44,400,6000000.0,7.0,10 days
+6,7,25,48,500,7500000.0,8.0,14 days

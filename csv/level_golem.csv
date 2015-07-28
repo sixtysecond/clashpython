@@ -1,2 +1,6 @@
-,Preferred Target,Attack Type,Housing Space,Training Time,Movement Speed,Attack Speed,Dark Barracks Level Required,Range,Death Damage Radius
-0,Defenses,Melee (Ground Only),30,45m,12,2.4s,4,1 tile,1.2 tiles
+,Level,Damage per Second,Damage per Attack,Damage Upon Death,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+0,1,38,91.2,350,4500,450,,,
+1,2,42,100.8,400,5000,525,60000.0,6.0,10 days
+2,3,46,110.4,450,5500,600,70000.0,7.0,12 days
+3,4,50,120.0,500,6000,675,80000.0,7.0,14 days
+4,5,54,129.6,550,6300,750,90000.0,8.0,14 days

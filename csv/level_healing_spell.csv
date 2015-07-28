@@ -1,2 +1,7 @@
-,Radius,Number of Pulses,Time Between Pulses,Housing Space,Time to Brew,Spell Factory Level Required
-0,5 tiles,40,0.3s,2,20 minutes,2
+,Level,Total Healing,Healing per Pulse,Cost,Research Cost,Research Time,Laboratory Level Required
+0,1,600,15,15000,,,
+1,2,800,20,16500,300000.0,1 day,2.0
+2,3,1000,25,18000,600000.0,2 days,4.0
+3,4,1200,30,20000,1200000.0,3 days,5.0
+4,5,1400,35,22000,2400000.0,5 days,6.0
+5,6,1600,40,24000,4800000.0,7 days,7.0

@@ -1,2 +1,5 @@
-,Preferred Target,Attack Type,Housing Space,Training Time,Movement Speed,Attack Speed,Dark Barracks Level Required,Range
-0,None,Area Splash 1 Tile Radius (Ground Only),8,8m,24,1.8s,3,0.5 tiles
+,Level,Damage per Second,Damage per Attack,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+0,1,88,158.4,900,70,,,
+1,2,99,178.2,1000,100,50000.0,6.0,10 days
+2,3,111,199.8,1100,130,60000.0,7.0,12 days
+3,4,124,223.2,1200,160,70000.0,7.0,14 days

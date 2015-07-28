@@ -1,2 +1,6 @@
-,Preferred Target,Attack Type,Housing Space,Training Time,Movement Speed,Attack Speed,Barracks Level Required,Range
-0,None,Melee (Ground Only),25,45m,16,2.5s,10,0.8 tiles
+,Level,Damage per Second,Damage per Attack,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+0,1,240,600,2800,28000,,,
+1,2,270,675,3100,32000,3000000.0,6.0,10 days
+2,3,300,750,3500,36000,6000000.0,6.0,12 days
+3,4,340,850,4000,40000,7000000.0,8.0,14 days
+4,5,380,950,4500,45000,8000000.0,8.0,14 days

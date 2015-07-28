@@ -1,2 +1,5 @@
-,Preferred Target,Attack Type,Housing Space,Training Time,Movement Speed,Heal Speed,Barracks Level Required,Range
-0,None,Heal Splash 2 Tile Radius (Ground Only),14,15m,16,0.7s,8,5 tiles
+,Level,Healing per Second,Healing per Pulse,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+0,1,35,24.5,500,5000,,,
+1,2,42,29.4,600,6000,750000.0,5.0,3 days
+2,3,55,38.5,840,8000,1500000.0,6.0,5 days
+3,4,71,49.7,1176,10000,3000000.0,7.0,7 days

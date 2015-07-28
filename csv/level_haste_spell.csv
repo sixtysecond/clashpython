@@ -1,2 +1,5 @@
-,Radius,Housing Space,Time to Create,Targets,Dark Spell Factory Level Required
-0,4 tiles,1,15 mins,Ground & Air,3
+,Level,Speed Increase,Spell Duration,Cost,Research Cost,Research Time,Laboratory Level Required
+0,1,28,10 seconds,80,,,
+1,2,34,15 seconds,85,40000.0,8 days,7.0
+2,3,40,20 seconds,90,80000.0,10 days,8.0
+3,4,46,25 seconds,95,100000.0,14 days,8.0

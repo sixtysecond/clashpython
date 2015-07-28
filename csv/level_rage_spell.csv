@@ -1,2 +1,6 @@
-,Radius,Number of Pulses,Time Between Pulses,Boost Time,Housing Space,Time to Brew,Spell Factory Level Required
-0,5 tiles,60,0.3s,1s,2,30 minutes,3
+,Level,Damage Increase,Speed Increase,Cost,Research Cost,Research Time,Laboratory Level Required
+0,1,130%,20,23000,,,
+1,2,140%,22,25000,450000.0,2 days,3.0
+2,3,150%,24,27000,900000.0,3 days,4.0
+3,4,160%,26,30000,1800000.0,5 days,5.0
+4,5,170%,28,33000,3000000.0,7 days,6.0

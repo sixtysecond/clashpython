@@ -1,2 +1,7 @@
-,Preferred Target,Attack Type,Housing Space,Training Time,Movement Speed,Attack Speed,Barracks Level Required,Range
-0,None,Area Splash 0.3 Tile Radius (Ground & Air),4,8m,16,1.5s,7,3 tiles
+,Level,Damage per Second,Damage per Attack,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+0,1,50,75.0,75,1500,,,
+1,2,70,105.0,90,2000,150000.0,3.0,1 day
+2,3,90,135.0,108,2500,450000.0,4.0,2 days
+3,4,125,187.5,130,3000,1350000.0,5.0,3 days
+4,5,170,255.0,156,3500,2500000.0,6.0,5 days
+5,6,180,270.0,164,4000,7500000.0,8.0,14 days

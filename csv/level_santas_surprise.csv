@@ -1,2 +1,2 @@
-,Radius,Random Radius,Number of Strikes,Time Between Strikes,Time to Create,Spell Factory Level Required
-0,1 tile,4 tiles,5,0.1s,1 day and 1 hour,1
+,Level,Total Damage,Damage per Strike,Cost,Research Cost ,Research Time,Laboratory Level Required
+0,1,1500,300,25000,,,

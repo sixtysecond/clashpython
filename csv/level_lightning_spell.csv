@@ -1,2 +1,7 @@
-,Radius,Random Radius,Number of Strikes,Time Between Strikes,Housing Space,Time to Brew,Spell Factory Level Required
-0,2 tiles,3.5 tiles,6,0.4s,2,20 minutes,1
+,Level,Total Damage,Damage per Strike,Cost,Research Cost,Research Time,Laboratory Level Required
+0,1,300,50,15000,,,
+1,2,330,55,16500,200000.0,1 day,1.0
+2,3,360,60,18000,500000.0,2 days,2.0
+3,4,390,65,20000,1000000.0,3 days,3.0
+4,5,420,70,22000,2000000.0,4 days,6.0
+5,6,450,75,24000,8000000.0,14 days,8.0
