@@ -1,4 +1,4 @@
-,Level,Hitpoints Lost,Cost ,Research Cost ,Research Time,Laboratory Level Required
+,Level,Hitpoints Lost,Cost Dark elixir,Research Cost Dark elixir,Research Time,Laboratory Level Required
 0,1,6%,125,,,
 1,2,8%,140,30000.0,6 days,6.0
 2,3,10%,160,60000.0,8 days,7.0

@@ -1,3 +1,3 @@
-,Level,Damage per Second,Damage per Attack,Skeletons Summoned,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+,Level,Damage per Second,Damage per Attack,Skeletons Summoned,Hitpoints,Training Cost Dark elixir,Research Cost Dark elixir,Laboratory Level Required,Research Time
 0,1,25,17.5,3 (Limit 6),75,250,,,
 1,2,30,21.0,4 (Limit 8),100,350,75000.0,7.0,10 days

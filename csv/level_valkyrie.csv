@@ -1,4 +1,4 @@
-,Level,Damage per Second,Damage per Attack,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+,Level,Damage per Second,Damage per Attack,Hitpoints,Training Cost Dark elixir,Research Cost Dark elixir,Laboratory Level Required,Research Time
 0,1,88,158.4,900,70,,,
 1,2,99,178.2,1000,100,50000.0,6.0,10 days
 2,3,111,199.8,1100,130,60000.0,7.0,12 days

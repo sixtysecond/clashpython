@@ -1,4 +1,4 @@
-,Level,Damage per Second,Damage per Attack,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+,Level,Damage per Second,Damage per Attack,Hitpoints,Training Cost Elixir,Research Cost Elixir,Laboratory Level Required,Research Time
 0,1,240,600,2800,28000,,,
 1,2,270,675,3100,32000,3000000.0,6.0,10 days
 2,3,300,750,3500,36000,6000000.0,6.0,12 days

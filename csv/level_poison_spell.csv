@@ -1,4 +1,4 @@
-,Level,Total Damage,Damage Per Pulse,Speed Decrease,Cost ,Research Cost ,Research Time,Laboratory Level Required
+,Level,Total Damage,Damage Per Pulse,Speed Decrease,Cost Dark elixir,Research Cost Dark elixir,Research Time,Laboratory Level Required
 0,1,270,6,28%,95,,,
 1,2,360,8,30%,110,25000.0,4 days,6.0
 2,3,450,10,32%,125,50000.0,6 days,7.0

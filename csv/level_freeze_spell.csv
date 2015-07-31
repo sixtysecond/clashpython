@@ -1,4 +1,4 @@
-,Level,Freeze Time,Cost ,Research Cost ,Research Time,Laboratory Level Required
+,Level,Freeze Time,Cost Elixir,Research Cost Elixir,Research Time,Laboratory Level Required
 0,1,4 seconds,26000,,,
 1,2,5 seconds,29000,4000000.0,5 days,8.0
 2,3,6 seconds,31000,5000000.0,7 days,8.0

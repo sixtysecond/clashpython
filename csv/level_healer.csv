@@ -1,4 +1,4 @@
-,Level,Healing per Second,Healing per Pulse,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+,Level,Healing per Second,Healing per Pulse,Hitpoints,Training Cost Elixir,Research Cost Elixir,Laboratory Level Required,Research Time
 0,1,35,24.5,500,5000,,,
 1,2,42,29.4,600,6000,750000.0,5.0,3 days
 2,3,55,38.5,840,8000,1500000.0,6.0,5 days

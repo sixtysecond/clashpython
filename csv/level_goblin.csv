@@ -1,4 +1,4 @@
-,Level,Damage per Second,DPS on Resource Buildings,Hitpoints,Training Cost ,Research Cost ,Laboratory Level Required,Research Time
+,Level,Damage per Second,DPS on Resource Buildings,Hitpoints,Training Cost Elixir,Research Cost Elixir,Laboratory Level Required,Research Time
 0,1,11,22,25,25,,,
 1,2,14,28,30,40,50000.0,1.0,12 hours
 2,3,19,38,36,60,250000.0,3.0,2 days
